@@ -1,2 +1,9 @@
 # Game-Design-Document
-The game design document for our game.
+
+## Game name
+
+## Game platform
+
+## Game Mechanica
+
+## Publishing date
